@@ -54,6 +54,8 @@ title: Student Blog
 - (#) in line #7 for Makefile to fix `bundle install` not running.
 - Error `mdless not found` during Linux Shell setup for last code cell. Ran `gem install mdless` in VSCode terminal to fix the issue.
 
+---
+
 ## Personal links:
 - [LinkedIn](https://www.linkedin.com/in/ankit-pulivendula-628a13286/)
 - [Fantasy Premier League](https://fantasy.premierleague.com/entry/417213/history)
